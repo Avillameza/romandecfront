@@ -1,6 +1,6 @@
 # When in Rome - Front End
 
-This is a [Next.js](https://nextjs.org/) front end project that converts Roman Numerals to Decimal Numbers and Vice Versa. [Here](https://github.com/Avillameza/RomanDec) is the backend. 
+This is a [Next.js](https://nextjs.org/) front end project that converts Roman Numerals to Decimal Numbers and Vice Versa. [Here](https://github.com/Avillameza/RomanDec) is the backend, which does the conversions. 
 
 ## Getting Started
 
